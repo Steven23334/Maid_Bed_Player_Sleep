@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.github.steven23334.maid_bed_player_sleep.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "MaidBedPlayerBedSupportMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
