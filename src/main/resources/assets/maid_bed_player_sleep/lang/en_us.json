@@ -1,0 +1,4 @@
+{
+  "maid_bed_player_sleep.configuration.sleep": "Maid Sleep",
+  "maid_bed_player_sleep.configuration.sleepCooldownSeconds": "Cooldown After Waking (seconds)"
+}

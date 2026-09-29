@@ -4,8 +4,10 @@
   "package": "com.github.steven23334.maid_bed_player_sleep.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "MaidBedPlayerBedSupportMixin"
+    "MaidBedPlayerBedSupportMixin",
+    "MaidSleepCooldownMixin"
   ],
+  "server": [],
   "injectors": {
     "defaultRequire": 1
   }

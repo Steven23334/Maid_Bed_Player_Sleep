@@ -1,0 +1,4 @@
+{
+  "maid_bed_player_sleep.configuration.sleep": "女仆睡眠",
+  "maid_bed_player_sleep.configuration.sleepCooldownSeconds": "叫醒后禁睡时长（秒）"
+}
